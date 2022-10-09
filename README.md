@@ -1,4 +1,4 @@
-# Project LiveTime
+# Project LiveTime(A WebApp)
 
 # Hacktoberfest 2021
 <div align="center">
